@@ -14,7 +14,6 @@ class Message extends Component {
     this.setState({
       message: 'Thank you for subscribing'
     })
-    return undefined;
   }
 
   render() {
